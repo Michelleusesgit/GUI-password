@@ -21,14 +21,14 @@ This mini project was developed using **Java** in **Eclipse IDE**. The design fo
 
 ## 📄 Code
 
-The complete source code is available in this repo as a `.txt` or `.java` file.  
+The complete source code is available in this repo as a `pwdg.java.java` file.  
 
 
 ---
 
 ## 🖼 Screenshot
 
-![App Output](password_output.jpg)
+![App Output](password_output.jpg.jpg)
 
 
 ---
