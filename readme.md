@@ -22,7 +22,7 @@ This mini project was developed using **Java** in **Eclipse IDE**. The design fo
 ## 📄 Code
 
 The complete source code is available in this repo as a `.txt` or `.java` file.  
-Refer to `PasswordGenerator.java` (or whatever file you upload) for full logic.
+
 
 ---
 
@@ -30,7 +30,6 @@ Refer to `PasswordGenerator.java` (or whatever file you upload) for full logic.
 
 ![App Output](password_output.jpg)
 
-> Rename your image to `password_output.jpg` before uploading so it matches!
 
 ---
 
